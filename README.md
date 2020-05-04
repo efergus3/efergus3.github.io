@@ -1,4 +1,4 @@
-# efergus3 Code Portfolio
+# Elise Ferguson Code Portfolio
 
 ## I am taking CIT 281 this term. Here are some things I learned:
 - A web API or Application Programming Interface is an API accessed using the HTTP protocol. Web APIs often deliver data formatted as JSON
@@ -18,8 +18,7 @@
 - Github overview
 - Markdown language for README files
 - JavaScript ES6+ features
--
 
 ### Project Links:
-- ![Project One](https://github.com/UO-CIT/project-1-efergus3)
-- ![Project Two](https://github.com/UO-CIT/project-2-efergus3)
+- [Project One](https://github.com/UO-CIT/project-1-efergus3)
+- [Project Two](https://github.com/UO-CIT/project-2-efergus3)
